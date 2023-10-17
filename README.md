@@ -7,7 +7,7 @@
 + Living in Recife, Pernambuco
 - 24 years old
 ! Full Stack Developer
-# Interested in JavaScript, React, Java and NodeJS
+# Interested in JavaScript, Angular, Java and NodeJS
 ```
 
 ### 🛠 **Tecnologias e Ferramentas:**
