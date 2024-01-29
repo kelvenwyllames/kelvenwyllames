@@ -6,7 +6,7 @@
 
 Minha jornada na programação é marcada pela dedicação em evoluir constantemente. Tenho o prazer de aprender e estou sempre de portas abertas para ouvir conselhos e insights de programadores mais experientes, que desempenham um papel crucial em minha trajetória de crescimento.
 
-Minha stack atual abrange tecnologias e ferramentas como HTML5, CSS3, JavaScript, Angular, TypeScript, Git, GitHub e Figma. Além disso, estou imerso em estudos contínuos, aprimorando-me em SASS, Java e Tailwind para ampliar ainda mais minhas habilidades e abordar desafios mais complexos. Estou entusiasmado em contribuir para a comunidade de desenvolvedores e em enfrentar os desafios emocionantes que o mundo da programação oferece.
+Minha stack atual abrange tecnologias e ferramentas como HTML5, CSS3, JavaScript, Angular, TypeScript, Git, GitHub e Figma. Além disso, estou imerso em estudos contínuos, aprimorando-me em SASS, Java, Tailwind e C# para ampliar ainda mais minhas habilidades e abordar desafios mais complexos. Estou entusiasmado em contribuir para a comunidade de desenvolvedores e em enfrentar os desafios emocionantes que o mundo da programação oferece.
 </p>
 
 ## Skills and Tools
