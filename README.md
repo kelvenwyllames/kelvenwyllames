@@ -2,11 +2,9 @@
 
 ## About me
 <p>
-  Olá, meu nome é Kelven Wyllames. Sou um jovem apaixonado por desafios e em constante busca por novos conhecimentos. Atualmente, atuo como desenvolvedor front-end, com o firme propósito de me tornar um profissional Full-Stack.
+Olá, meu nome é Kelven Wyllames. Sou um jovem apaixonado por desafios e em constante busca por novos conhecimentos. Atualmente, atuo como desenvolvedor front-end, com o firme propósito de me tornar um profissional Full-Stack.
 
-Minha jornada na programação é marcada pela dedicação em evoluir constantemente. Tenho o prazer de aprender e estou sempre de portas abertas para ouvir conselhos e insights de programadores mais experientes, que desempenham um papel crucial em minha trajetória de crescimento.
-
-Minha stack atual abrange tecnologias e ferramentas como HTML5, CSS3, JavaScript, Angular, TypeScript, Git, GitHub e Figma. Além disso, estou imerso em estudos contínuos, aprimorando-me em SASS, Java, Tailwind e C# para ampliar ainda mais minhas habilidades e abordar desafios mais complexos. Estou entusiasmado em contribuir para a comunidade de desenvolvedores e em enfrentar os desafios emocionantes que o mundo da programação oferece.
+Minha stack atual abrange tecnologias e ferramentas como HTML5, CSS3, JavaScript, Angular, TypeScript, Tailwind CSS, Nextjs, React, Git, GitHub e Figma. Além disso, estou imerso em estudos contínuos, aprimorando-me em Java para ampliar ainda mais minhas habilidades e abordar desafios mais complexos. Estou entusiasmado em contribuir para a comunidade de desenvolvedores e em enfrentar os desafios emocionantes que o mundo da programação oferece.
 </p>
 
 ## Skills and Tools
@@ -16,6 +14,9 @@ Minha stack atual abrange tecnologias e ferramentas como HTML5, CSS3, JavaScript
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![image](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ## Social media
